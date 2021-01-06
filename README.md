@@ -1,2 +1,1 @@
-# FoulBall
-Is Foul Ball a skill
+Is fouing balls of a skill? 
